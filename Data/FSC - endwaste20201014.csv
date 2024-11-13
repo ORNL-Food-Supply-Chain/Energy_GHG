@@ -1,0 +1,90 @@
+Disposal,value,epaLevel,stage,epaStage
+Donation,2.716009428,Food Donation,Manufacturing,Manufacturing
+Animal Feed ,109.6294769,Animal Feed,Manufacturing,Manufacturing
+Co-digestion/anaerobic,7.177371699,Industrial Uses,Manufacturing,Manufacturing
+Composting/Aerobic,0.73799998,Compost/ Land App.,Manufacturing,Manufacturing
+Bio-based/bio-chemical,0.682486235,Industrial Uses,Manufacturing,Manufacturing
+Land Application,19.29244997,Compost/ Land App.,Manufacturing,Manufacturing
+Wastewater,0,Waste,Manufacturing,Manufacturing
+Recycled (other),0,Recycled (other),Manufacturing,Manufacturing
+Landfill,4.074650208,Waste,Manufacturing,Manufacturing
+Incineration,0.526629925,Waste,Manufacturing,Manufacturing
+Unknown,0,Unknown,Manufacturing,Manufacturing
+Donation,0.888534644,Food Donation,Distribution,Distribution
+Animal Feed ,2.276272146,Animal Feed,Distribution,Distribution
+Co-digestion/anaerobic,0.513476054,Industrial Uses,Distribution,Distribution
+Composting/Aerobic,0.246219663,Compost/ Land App.,Distribution,Distribution
+Bio-based/bio-chemical,0.50941928,Industrial Uses,Distribution,Distribution
+Land Application,0.237432676,Compost/ Land App.,Distribution,Distribution
+Wastewater,0,Waste,Distribution,Distribution
+Recycled (other),0,Recycled (other),Distribution,Distribution
+Landfill,5.232360683,Waste,Distribution,Distribution
+Incineration,0.458068042,Waste,Distribution,Distribution
+Unknown,0,Unknown,Distribution,Distribution
+Donation,1.827474856,Food Donation,W&R,W&R
+Animal Feed ,4.681674646,Animal Feed,W&R,W&R
+Co-digestion/anaerobic,1.056081026,Industrial Uses,W&R,W&R
+Composting/Aerobic,0.506407091,Compost/ Land App.,W&R,W&R
+Bio-based/bio-chemical,1.047737342,Industrial Uses,W&R,W&R
+Land Application,0.488334639,Compost/ Land App.,W&R,W&R
+Wastewater,0,Waste,W&R,W&R
+Recycled (other),0,Recycled (other),W&R,W&R
+Landfill,10.76154729,Waste,W&R,W&R
+Incineration,0.942121768,Waste,W&R,W&R
+Unknown,0,Unknown,W&R,W&R
+Donation,2.7160095,Food Donation,Food Services,Consumption
+Animal Feed ,0.002573452,Animal Feed,Food Services,Consumption
+Co-digestion/anaerobic,0.856909906,Industrial Uses,Food Services,Consumption
+Composting/Aerobic,0.410901476,Compost/ Land App.,Food Services,Consumption
+Bio-based/bio-chemical,0.838650023,Industrial Uses,Food Services,Consumption
+Land Application,0,Compost/ Land App.,Food Services,Consumption
+Wastewater,0,Waste,Food Services,Consumption
+Recycled (other),0,Recycled (other),Food Services,Consumption
+Landfill,10.10760737,Waste,Food Services,Consumption
+Incineration,2.359517169,Waste,Food Services,Consumption
+Unknown,0,Unknown,Food Services,Consumption
+Donation,0,Food Donation,Household,Consumption
+Animal Feed ,0,Animal Feed,Household,Consumption
+Co-digestion/anaerobic,0,Industrial Uses,Household,Consumption
+Composting/Aerobic,0.763102741,Compost/ Land App.,Household,Consumption
+Bio-based/bio-chemical,0,Industrial Uses,Household,Consumption
+Land Application,0,Compost/ Land App.,Household,Consumption
+Wastewater,4.817104193,Waste,Household,Consumption
+Recycled (other),0,Recycled (other),Household,Consumption
+Landfill,21.59189686,Waste,Household,Consumption
+Incineration,4.941924165,Waste,Household,Consumption
+Unknown,0,Unknown,Household,Consumption
+Donation,0,Food Donation,Food Banks,Consumption
+Animal Feed ,0,Animal Feed,Food Banks,Consumption
+Co-digestion/anaerobic,0.018741525,Industrial Uses,Food Banks,Consumption
+Composting/Aerobic,0.008986849,Compost/ Land App.,Food Banks,Consumption
+Bio-based/bio-chemical,0,Industrial Uses,Food Banks,Consumption
+Land Application,0,Compost/ Land App.,Food Banks,Consumption
+Wastewater,0,Waste,Food Banks,Consumption
+Recycled (other),0,Recycled (other),Food Banks,Consumption
+Landfill,0,Waste,Food Banks,Consumption
+Incineration,0,Waste,Food Banks,Consumption
+Unknown,0,Unknown,Food Banks,Consumption
+Donation,0,Food Donation,Unharvested,On-farm
+Animal Feed ,0,Animal Feed,Unharvested,On-farm
+Co-digestion/anaerobic,0,Industrial Uses,Unharvested,On-farm
+Composting/Aerobic,0,Compost/ Land App.,Unharvested,On-farm
+Bio-based/bio-chemical,0,Industrial Uses,Unharvested,On-farm
+Land Application,0,Compost/ Land App.,Unharvested,On-farm
+Wastewater,0,Waste,Unharvested,On-farm
+Recycled (other),26.1,Recycled (other),Unharvested,On-farm
+Landfill,8.7,Waste,Unharvested,On-farm
+Incineration,0,Waste,Unharvested,On-farm
+Unknown,6.06,Unknown,Unharvested,On-farm
+Donation,0,Food Donation,Unsold,On-farm
+Animal Feed ,0,Animal Feed,Unsold,On-farm
+Co-digestion/anaerobic,0,Industrial Uses,Unsold,On-farm
+Composting/Aerobic,0,Compost/ Land App.,Unsold,On-farm
+Bio-based/bio-chemical,0,Industrial Uses,Unsold,On-farm
+Land Application,0,Compost/ Land App.,Unsold,On-farm
+Wastewater,0,Waste,Unsold,On-farm
+Recycled (other),7.496186563,Recycled (other),Unsold,On-farm
+Landfill,2.498728854,Waste,Unsold,On-farm
+Incineration,0,Waste,Unsold,On-farm
+Unknown,2.814088762,Unknown,Unsold,On-farm
+Water,63.68133007,Water,Manufacturing,Manufacturing
